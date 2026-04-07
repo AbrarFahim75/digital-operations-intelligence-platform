@@ -1,2 +1,13 @@
-# digital-operations-intelligence-platform
-Enterprise-grade data analytics platform for transforming operational data into actionable insights through dashboards, KPI tracking, and data storytelling. Includes data pipelines, validation, and training materials for business users.
+# Digital Operations Intelligence Platform
+
+This project demonstrates how operational data can be transformed into actionable insights through dashboards, analytics, and data storytelling.
+
+## Key Features
+- KPI dashboards for decision-making
+- Data cleaning and validation pipelines
+- Business insights and recommendations
+- Training materials for non-technical users
+- AI and data enablement use cases
+
+## Objective
+To simulate an enterprise-level analytics platform that supports data-driven decision-making and operational intelligence.
