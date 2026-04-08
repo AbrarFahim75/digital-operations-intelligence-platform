@@ -1,0 +1,11 @@
+Shipment_ID,Date,Region,Port,Transport_Mode,Carrier,Delivery_Status,Delay_Days,Revenue,Cost,Units
+SHP001,2025-01-02,Europe,Hamburg,Sea,Maersk,On Time,0,12000,8000,150
+SHP002,2025-01-03,Asia,Singapore,Sea,COSCO,Delayed,3,15000,11000,200
+SHP003,2025-01-04,USA,Los Angeles,Air,DHL,On Time,0,9000,6000,80
+SHP004,2025-01-05,Europe,Rotterdam,Truck,DB Schenker,Delayed,2,7000,5000,120
+SHP005,2025-01-06,Asia,Shanghai,Sea,MSC,On Time,0,20000,14000,300
+SHP006,2025-01-07,USA,New York,Air,FedEx,Delayed,1,11000,8000,90
+SHP007,2025-01-08,Europe,Hamburg,Truck,DB Schenker,On Time,0,6000,4000,100
+SHP008,2025-01-09,Asia,Singapore,Sea,Maersk,Delayed,4,18000,13000,250
+SHP009,2025-01-10,USA,Los Angeles,Air,DHL,On Time,0,9500,7000,85
+SHP010,2025-01-11,Europe,Rotterdam,Sea,MSC,Delayed,2,14000,10000,180
