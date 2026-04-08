@@ -1,18 +1,28 @@
-# Digital Operations Intelligence Platform
+# 🚀 Digital Operations Intelligence Platform
 
 An enterprise-style analytics platform designed to transform operational data into actionable business insights through dashboards, KPI tracking, and data storytelling.
 
-## Objective
-To simulate a real-world data analytics system that supports data-driven decision-making and operational intelligence.
+---
 
-## Key Features
-- KPI dashboards for monitoring operational performance
-- Data cleaning and validation pipelines
-- Business insights and executive summaries
-- Data storytelling for non-technical stakeholders
-- Training materials for data and AI enablement
+## 🎯 Objective
 
-## Project Structure
+To simulate a real-world **data analytics system** that enables data-driven decision-making and operational intelligence across business functions.
+
+---
+
+## ✨ Key Features
+
+* 📊 KPI dashboards for monitoring operational performance
+* 🧹 Data cleaning and validation pipelines
+* 📈 Business insights and executive summaries
+* 🧠 Data storytelling for non-technical stakeholders
+* 🎓 Training materials for data and AI enablement
+
+---
+
+## 📁 Project Structure
+
+```
 digital-operations-intelligence-platform/
 │
 ├── README.md
@@ -71,11 +81,48 @@ digital-operations-intelligence-platform/
 │
 └── tests/
     └── data_validation_checks.py
+```
 
-## Use Case
-Designed for operations, logistics, and business teams to improve decision-making through structured analytics and visualization.
+---
 
-## Tools
-Python, Excel, Power BI, SQL (basic)
+## 📌 Use Case
+
+Designed for **operations, logistics, and business teams** to improve decision-making through structured analytics, KPI monitoring, and interactive dashboards.
+
+---
+
+## 🛠️ Tech Stack
+
+* Python
+* Power BI
+* Excel
+* SQL (Basic)
+
+---
+
+## 📊 Future Enhancements
+
+* 🤖 AI-powered insight generation
+* 🔄 Automated data pipelines
+* ☁️ Cloud deployment (Azure / GCP)
+* 📈 Advanced predictive analytics
+
+---
+
+## 📷 Dashboard Preview *(Coming Soon)*
+
+*Add screenshots of your Power BI dashboard here*
+
+---
+
+## 💼 Portfolio Value
+
+This project demonstrates:
+
+* End-to-end data analytics workflow
+* Business-focused KPI design
+* Dashboard development (Power BI)
+* Data storytelling & stakeholder communication
+* Foundation for AI-driven analytics systems
 
 ---
